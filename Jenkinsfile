@@ -1,5 +1,5 @@
 pipeline {
-     slave
+     "slave"
     
     environment {
         GIT_REPO_URL = 'https://github.com/prane12/devops'
